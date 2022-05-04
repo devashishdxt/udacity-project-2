@@ -12,8 +12,8 @@
 
 ## Running StarNotary DApp
 
-``shell
+```shell
 cd app
 npm install
 npm run start
-``
+```
