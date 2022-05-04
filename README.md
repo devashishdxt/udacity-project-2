@@ -8,6 +8,7 @@
 - OpenZeppelin version: v4.6.0
 - Token Contract Address: [0x41add685e72b93BBE052A8643f1fD90685b6485E](https://rinkeby.etherscan.io/address/0x41add685e72b93bbe052a8643f1fd90685b6485e)
 - `createStar` Transaction: [0x40941b0b314d963f3ccb96485b0e18b85b8812572e724ed360e517f296683bc9](https://rinkeby.etherscan.io/tx/0x40941b0b314d963f3ccb96485b0e18b85b8812572e724ed360e517f296683bc9)
+- `transferStar` Transaction: [0x8d396bb5fc79d8848dd0ea6493ca8a7286565223724b3d1ce67665bea4c22b18](https://rinkeby.etherscan.io/tx/0x8d396bb5fc79d8848dd0ea6493ca8a7286565223724b3d1ce67665bea4c22b18)
 
 ## Running StarNotary DApp
 
